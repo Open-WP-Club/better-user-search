@@ -4,7 +4,7 @@
  * Plugin Name: Better User Search
  * Plugin URI: https://github.com/MrGKanev/better-user-search
  * Description: Improves the search for users in the backend significantly: Search for first name, last, email and much more of users instead of only nicename.
- * Version:                 0.0.1
+ * Version:                 2.0.0
  * Author:                  Gabriel Kanev
  * Author URI:              https://gkanev.com
  * License:                 MIT
@@ -40,7 +40,7 @@ if ( ! class_exists( 'Better_User_Search' ) ) {
 	// This is where the magic happens!
 	class Better_User_Search {
 		// Plugin version
-		public static $version = '1.1.1';
+		public static $version = '2.0.0';
 
 		// Instance of the class
 		protected static $instance;
