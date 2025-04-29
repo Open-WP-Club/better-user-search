@@ -1,7 +1,5 @@
 # Better User Search
 
-**Contributors:** dale3h, mrgkanev 
-**Tags:** user, users, search, admin, backend, WooCommerce, customers, meta  
 **Requires at least:** 3.1  
 **Tested up to:** 6.8.1  
 **License:** GPLv2 or later  
